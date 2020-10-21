@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/1091-208410240-robofriends/static/css/main.bda8ee41.chunk.css",
+    "main.css": "/1091-208410240-robofriends/static/css/main.78aa5c5a.chunk.css",
     "main.js": "/1091-208410240-robofriends/static/js/main.e869dadc.chunk.js",
     "main.js.map": "/1091-208410240-robofriends/static/js/main.e869dadc.chunk.js.map",
     "runtime-main.js": "/1091-208410240-robofriends/static/js/runtime-main.52dcac0c.js",
@@ -9,19 +9,19 @@
     "static/js/2.e7e24cc0.chunk.js": "/1091-208410240-robofriends/static/js/2.e7e24cc0.chunk.js",
     "static/js/2.e7e24cc0.chunk.js.map": "/1091-208410240-robofriends/static/js/2.e7e24cc0.chunk.js.map",
     "index.html": "/1091-208410240-robofriends/index.html",
-    "precache-manifest.f849eabda1801b0428accdffd1c4fbe1.js": "/1091-208410240-robofriends/precache-manifest.f849eabda1801b0428accdffd1c4fbe1.js",
+    "precache-manifest.c9d89404d03d99de84efbb0e9c7147a6.js": "/1091-208410240-robofriends/precache-manifest.c9d89404d03d99de84efbb0e9c7147a6.js",
     "service-worker.js": "/1091-208410240-robofriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/1091-208410240-robofriends/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.bda8ee41.chunk.css.map": "/1091-208410240-robofriends/static/css/main.bda8ee41.chunk.css.map",
+    "static/css/main.78aa5c5a.chunk.css.map": "/1091-208410240-robofriends/static/css/main.78aa5c5a.chunk.css.map",
     "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/1091-208410240-robofriends/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/1091-208410240-robofriends/static/media/1.5ed642f1.png",
+    "static/media/index.css": "/1091-208410240-robofriends/static/media/1.cc7a772e.png",
     "static/media/app.css": "/1091-208410240-robofriends/static/media/SEGA.82e09f78.TTF"
   },
   "entrypoints": [
     "static/js/runtime-main.52dcac0c.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.e7e24cc0.chunk.js",
-    "static/css/main.bda8ee41.chunk.css",
+    "static/css/main.78aa5c5a.chunk.css",
     "static/js/main.e869dadc.chunk.js"
   ]
 }
